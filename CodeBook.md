@@ -5,11 +5,11 @@
 "subjectID": The subject ID
 
 ## ActivityType column has 6 types as listed below.
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
+WALKING,
+WALKING_UPSTAIRS,
+WALKING_DOWNSTAIRS,
+SITTING,
+STANDING,
 LAYING
 
 ## Measurements
