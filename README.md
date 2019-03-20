@@ -1,4 +1,4 @@
-#Getting-and-Cleaning-Data-Week-4-Assignment
+# Getting-and-Cleaning-Data-Week-4-Assignment
 
 
 This project includes four files: README.md, codebook.md, run_analysis.R, tidyDataSet.txt
