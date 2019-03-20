@@ -1,9 +1,10 @@
-##Dataset description
-###Identifiers
+#Dataset description
+
+##Identifiers
 "activityID": The type of activity
 "subjectID": The subject ID
 
-###ActivityType column has 6 types as listed below.
+##ActivityType column has 6 types as listed below.
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
@@ -11,7 +12,7 @@ SITTING
 STANDING
 LAYING
 
-###Measurements
+##Measurements
 "activityID"
 "subjectID"
 "tBodyAcc-mean()-X"
@@ -81,5 +82,5 @@ LAYING
 "fBodyBodyGyroJerkMag-mean()"
 "fBodyBodyGyroJerkMag-std()"
 
-###Variable units
+##Variable units
 activityID and subjectID variables are numeric. All the other variables are integer type.
